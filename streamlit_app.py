@@ -6,7 +6,7 @@ from app.services.llm_parser import parse_resume_text
 
 # Page Configuration
 st.set_page_config(
-    page_title="Ordered CV Parser",
+    page_title="Resume Extraction System",
     page_icon="📄",
     layout="wide"
 )
