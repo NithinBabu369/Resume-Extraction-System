@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📄 Intelligent Resume Extraction System")
+st.title("📄 Resume Extraction System")
 st.caption("Transform unstructured CVs into validated data models using PyMuPDF, groq/compound-mini, and Pydantic.")
 
 # File Upload Section

@@ -1,4 +1,4 @@
-# 📄 Ordered CV Parser Engine
+# 📄 Resume Extraction System
 
 An intelligent, schema-enforced resume parsing engine powered by **PyMuPDF**, **python-docx**, **Groq LLM** (`groq/compound-mini`), **Instructor**, and **Pydantic**. 
 
